@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Mohamed Salah Zidane — Senior iOS Engineer · Mobile Tech Lead">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .grid { stroke: #1a2030; stroke-width: 1; }
+      .name {
+        font-family: ui-serif, Georgia, 'Times New Roman', serif;
+        font-size: 88px;
+        font-weight: 700;
+        fill: #f0f6fc;
+        letter-spacing: -2px;
+      }
+      .role {
+        font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+        font-size: 22px;
+        font-weight: 500;
+        fill: #A78BFA;
+        letter-spacing: 1px;
+      }
+      .meta {
+        font-family: ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', sans-serif;
+        font-size: 18px;
+        fill: #8b949e;
+        letter-spacing: 0.5px;
+      }
+      .accent { fill: #A78BFA; }
+      .ring { stroke: #A78BFA; fill: none; stroke-width: 1.5; }
+      .tag {
+        font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+        font-size: 13px;
+        fill: #6e7681;
+        letter-spacing: 0.5px;
+      }
+      .divider { stroke: #21262d; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect class="bg" width="1200" height="320"/>
+
+  <!-- subtle grid lines (editorial frame) -->
+  <line class="grid" x1="64" y1="0" x2="64" y2="320"/>
+  <line class="grid" x1="1136" y1="0" x2="1136" y2="320"/>
+  <line class="grid" x1="0" y1="40" x2="1200" y2="40"/>
+  <line class="grid" x1="0" y1="280" x2="1200" y2="280"/>
+
+  <!-- top label -->
+  <text class="tag" x="84" y="64">— PORTFOLIO · 2026</text>
+
+  <!-- main name -->
+  <text class="name" x="84" y="170">Mohamed Salah Zidane</text>
+
+  <!-- accent square -->
+  <rect class="accent" x="84" y="195" width="14" height="14"/>
+
+  <!-- role -->
+  <text class="role" x="110" y="207">SENIOR iOS ENGINEER · MOBILE TECH LEAD</text>
+
+  <!-- meta line -->
+  <text class="meta" x="84" y="248">Cairo, Egypt  ·  BuildingLink (NYC, Remote)  ·  Solo-founding Pockito  ·  8+ years shipping iOS</text>
+
+  <!-- bottom tags -->
+  <text class="tag" x="84" y="304">Swift 6  ·  SwiftUI  ·  @Observable  ·  Foundation Models  ·  Fastlane  ·  Flutter 3.x  ·  OpenAI</text>
+
+  <!-- right-side mark: orbit + dot, geometric (no AI gradient slop) -->
+  <g transform="translate(1010, 160)">
+    <circle class="ring" cx="0" cy="0" r="72"/>
+    <circle class="ring" cx="0" cy="0" r="48" opacity="0.55"/>
+    <circle class="accent" cx="0" cy="-72" r="6"/>
+    <circle class="accent" cx="48" cy="0" r="3" opacity="0.7"/>
+    <circle class="accent" cx="-48" cy="0" r="3" opacity="0.4"/>
+  </g>
+</svg>
