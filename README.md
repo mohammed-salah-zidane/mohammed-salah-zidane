@@ -10,12 +10,19 @@
   </picture>
 </a>
 
-<p>
+<p align="center">
+  <a href="https://github.com/mohammed-salah-zidane">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2400&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Senior+iOS+Engineer+%C2%B7+Mobile+Tech+Lead;Solo+founder+%E2%80%94+Pockito+%E2%80%A2+4.7%E2%98%85+%E2%80%A2+22+languages;BuildingLink+%E2%80%A2+80%2B+white-label+iOS+flavors+automated;Swift+6+%C2%B7+SwiftUI+%C2%B7+%40Observable+%C2%B7+Foundation+Models;Open+to+iOS+lead+%26+staff+engineering+roles" alt="What I do">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohamed-salah-zidane/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mohamed--salah--zidane-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mohamed.zidane95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohamed.zidane95%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://apps.apple.com/us/app/pockito-ai-expense-tracker/id6755700782"><img alt="Pockito on the App Store" src="https://img.shields.io/badge/App%20Store-Pockito-000000?style=flat-square&logo=appstore&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Cairo,%20Egypt-555?style=flat-square&logo=googlemaps&logoColor=white">
   <img alt="Years" src="https://img.shields.io/badge/iOS-8%2B%20years-FA7343?style=flat-square&logo=swift&logoColor=white">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mohammed-salah-zidane&style=flat-square&color=A78BFA&label=PROFILE+VIEWS">
 </p>
 
 > **Senior iOS Engineer · Mobile Tech Lead.** Eight years shipping production iOS apps in Swift, SwiftUI, UIKit, and Objective-C — from consumer apps at scale ([TheCryptoApp](https://apps.apple.com/us/app/the-crypto-app-news-alerts/id1339112917), 4M+ downloads) to enterprise fleets ([BuildingLink](https://www.buildinglink.com)'s 80+ white-label iOS flavors automated through Fastlane and the App Store Connect API). Raised App Store ratings from **1.2 → 4.7** and cut startup time by **40%** with Instruments. Solo-founded [**Pockito**](https://apps.apple.com/us/app/pockito-ai-expense-tracker/id6755700782) — an AI-powered iOS expense tracker (4.7★, 22 languages).
@@ -356,6 +363,28 @@ A chronological tour of every iOS app I've put my name on. Live App Store links 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-salah-zidane&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak">
 </p>
+
+#### Activity over the last year
+
+<a href="https://github.com/mohammed-salah-zidane">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-salah-zidane&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true&radius=12&custom_title=Contribution+Activity" alt="Contribution activity graph">
+</a>
+
+#### Achievements
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-salah-zidane&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies">
+</a>
+
+#### Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammed-salah-zidane/mohammed-salah-zidane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammed-salah-zidane/mohammed-salah-zidane/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mohammed-salah-zidane/mohammed-salah-zidane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub><i>Snake regenerates daily via a GitHub Actions workflow that runs <a href="https://github.com/Platane/snk">Platane/snk</a> at 00:00 UTC and pushes the SVG to the <code>output</code> branch.</i></sub>
 
 ---
 
