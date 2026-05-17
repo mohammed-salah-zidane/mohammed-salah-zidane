@@ -101,6 +101,75 @@ Bank-SMS, Apple Pay, voice, receipts, manual, import. Six ways to capture spend,
 
 ---
 
+## Domain expertise
+
+The verticals I've shipped real production iOS in. Each bullet is a thing I've personally architected and shipped end-to-end.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 AI / ML on mobile
+
+On-device Vision (receipt OCR) · Speech (voice tracking) · Foundation Models · Apple Intelligence · Core ML · OpenAI API (function calling + structured outputs) · Claude API.
+
+<sub><b>Shipped:</b> Pockito AI chatbot (Egyptian Arabic dialect) · Mentor AI (Quiet) · bank-SMS parser covering 50+ banks</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 💳 Payments & monetization
+
+StoreKit 2 · IAP (RevenueCat · Adapty · Apphud) · Apple Pay · Google Pay · Stripe · Adyen · PayTabs · Paymob SDK.
+
+<sub><b>Shipped:</b> PayTabs iOS SDK author · TheCryptoApp Pro subscriptions · Pockito Free + Pro · Ionic Native Plugin (npm)</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔐 IoT & access control
+
+Brivo · Salto · ButterflyMX · Latch smart-lock SDKs · CoreBluetooth (BLE) · vendor REST / OAuth.
+
+<sub><b>Shipped:</b> BuildingLink Resident — door unlock, visitor entry, amenity booking, package alerts across 6,500+ buildings</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 Real-time & WebSockets
+
+REST · GraphQL · WebSocket · Socket.IO · OAuth 2.0 · RSA · biometric auth.
+
+<sub><b>Shipped:</b> TheCryptoApp — live crypto price monitoring across 4M+ installs · SayTV Chat SDK — partner streaming app integrations</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌍 Localization at scale
+
+String Catalogs (`.xcstrings`) · NSLocalizedString · easy_localization · RTL/LTR · 22-language pipelines.
+
+<sub><b>Shipped:</b> Pockito (22 languages, Egyptian Arabic dialect for AI) · BuildingLink (multi-region) · MyHome.ie</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡️ Performance & profiling
+
+Instruments (Time Profiler · Allocations · Leaks) · LLDB · caching strategies · memory tuning.
+
+<sub><b>Shipped:</b> 40% startup-time reduction at BuildingLink · MyHome.ie scrolling perf · Freejna stabilization for 500K users · App Store rating 1.2 → 4.7</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Career
 
 <table>
@@ -115,7 +184,42 @@ Bank-SMS, Apple Pay, voice, receipts, manual, import. Six ways to capture spend,
 
 ---
 
+## Mentorship & leadership
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧑‍🏫 People
+
+- **Built the iOS team from scratch at TrustSwap** (2020). Hired engineers, set the hiring bar, ran technical interviews.
+- **Mentored 10+ engineers** across iOS (Swift, SwiftUI, Clean Architecture, async/await) and Flutter (Bloc, Riverpod).
+- **Supported stricter code review** at BuildingLink and Square1.
+- **Coached engineers through real-world architecture migrations** — UIKit → SwiftUI, legacy → Clean.
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ Process
+
+- **Set up Scrum, Git branching strategy, and a code-review process** at TrustSwap that raised quality and release predictability.
+- **Defined mobile development standards, code review, and architectural patterns** across iOS and Flutter at Quiet.
+- **Owned mobile architecture** across distributed teams at Square1.
+- **Ran system design reviews** + drove engineering-standards adoption.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Toolbox
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,xcode,flutter,dart,kotlin,objectivec,firebase,figma,git,github,vscode,bash&theme=dark&perline=12" alt="Tools I use daily" />
+  </a>
+</p>
 
 #### Core iOS
 
@@ -386,16 +490,97 @@ A chronological tour of every iOS app I've put my name on. Live App Store links 
 
 <sub><i>Snake regenerates daily via a GitHub Actions workflow that runs <a href="https://github.com/Platane/snk">Platane/snk</a> at 00:00 UTC and pushes the SVG to the <code>output</code> branch.</i></sub>
 
+#### Pinned repos
+
+<p>
+  <a href="https://github.com/mohammed-salah-zidane/Pockito-iOS">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-salah-zidane&repo=Pockito-iOS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=cdd9e5">
+  </a>
+  <a href="https://github.com/mohammed-salah-zidane/Frame">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-salah-zidane&repo=Frame&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=cdd9e5">
+  </a>
+</p>
+<p>
+  <a href="https://github.com/mohammed-salah-zidane/SwiftyNet">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-salah-zidane&repo=SwiftyNet&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=cdd9e5">
+  </a>
+  <a href="https://github.com/mohammed-salah-zidane/TwitterClone">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-salah-zidane&repo=TwitterClone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=cdd9e5">
+  </a>
+</p>
+
+---
+
+## Education · Languages · Availability
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 🎓 Education
+
+**B.Sc. Computer Science**  
+Assiut University, Egypt  
+<sub>2014 – 2018</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### 🗣️ Languages
+
+**Arabic** — native  
+**English** — fluent  
+<sub>Working across Egypt, UAE, Saudi Arabia, Ireland, France, Canada, USA.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### 📡 Availability
+
+**Open** to staff / lead iOS roles  
+Remote-first · global  
+<sub>Currently Senior iOS Engineer at BuildingLink (NYC, Remote).</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote of the day">
+  </a>
+</p>
+
 ---
 
 ## Get in touch
 
 If you're hiring an iOS lead, want to collaborate on a Swift open-source project, or just want to talk shop about Swift 6 concurrency, Foundation Models, or modular SPM architecture — my inbox is open.
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 - 📧 **Email** — [mohamed.zidane95@gmail.com](mailto:mohamed.zidane95@gmail.com)
 - 💼 **LinkedIn** — [mohamed-salah-zidane](https://www.linkedin.com/in/mohamed-salah-zidane/)
-- 🍎 **App Store** — [Pockito · AI Expense Tracker](https://apps.apple.com/us/app/pockito-ai-expense-tracker/id6755700782)
-- 📍 **Location** — Cairo, Egypt — open to remote roles worldwide
+- 🐙 **GitHub** — [mohammed-salah-zidane](https://github.com/mohammed-salah-zidane)
 
-<sub><i>BSc Computer Science, Assiut University (2014–2018) · Arabic (native) · English (fluent)</i></sub>
+</td>
+<td valign="top" width="50%">
+
+- 🍎 **App Store** — [Pockito · AI Expense Tracker](https://apps.apple.com/us/app/pockito-ai-expense-tracker/id6755700782)
+- 📦 **npm** — [PayTabs Ionic Native Plugin](https://www.npmjs.com/package/com.paytabs.ionic.native)
+- 📍 **Cairo, Egypt** — open to remote roles worldwide
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>
+    Thanks for stopping by. If you read this far, the least I can do is wish you a green-CI kind of day.
+  </sub>
+</p>
 
