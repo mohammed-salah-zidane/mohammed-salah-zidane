@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/mohammed-salah-zidane">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2400&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Senior+iOS+Engineer+%C2%B7+Mobile+Tech+Lead;Solo+founder+%E2%80%94+Pockito+%E2%80%A2+4.7%E2%98%85+%E2%80%A2+22+languages;BuildingLink+%E2%80%A2+80%2B+white-label+iOS+flavors+automated;Swift+6+%C2%B7+SwiftUI+%C2%B7+%40Observable+%C2%B7+Foundation+Models;Open+to+iOS+lead+%26+staff+engineering+roles" alt="What I do">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2400&pause=900&color=E0524A&center=true&vCenter=true&width=720&lines=Senior+iOS+Engineer+%C2%B7+Mobile+Tech+Lead;Solo+founder+%E2%80%94+Pockito+%E2%80%A2+4.7%E2%98%85+%E2%80%A2+22+languages;BuildingLink+%E2%80%A2+80%2B+white-label+iOS+flavors+automated;Swift+6+%C2%B7+SwiftUI+%C2%B7+%40Observable+%C2%B7+Foundation+Models;Open+to+iOS+lead+%26+staff+engineering+roles" alt="What I do">
   </a>
 </p>
 
@@ -22,7 +22,7 @@
   <a href="https://apps.apple.com/us/app/pockito-ai-expense-tracker/id6755700782"><img alt="Pockito on the App Store" src="https://img.shields.io/badge/App%20Store-Pockito-000000?style=flat-square&logo=appstore&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Cairo,%20Egypt-555?style=flat-square&logo=googlemaps&logoColor=white">
   <img alt="Years" src="https://img.shields.io/badge/iOS-8%2B%20years-FA7343?style=flat-square&logo=swift&logoColor=white">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mohammed-salah-zidane&style=flat-square&color=A78BFA&label=PROFILE+VIEWS">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mohammed-salah-zidane&style=flat-square&color=E0524A&label=PROFILE+VIEWS">
 </p>
 
 > **Senior iOS Engineer · Mobile Tech Lead.** Eight years shipping production iOS apps in Swift, SwiftUI, UIKit, and Objective-C — from consumer apps at scale ([TheCryptoApp](https://apps.apple.com/us/app/the-crypto-app-news-alerts/id1339112917), 4M+ downloads) to enterprise fleets ([BuildingLink](https://www.buildinglink.com)'s 80+ white-label iOS flavors automated through Fastlane and the App Store Connect API). Raised App Store ratings from **1.2 → 4.7** and cut startup time by **40%** with Instruments. Solo-founded [**Pockito**](https://apps.apple.com/us/app/pockito-ai-expense-tracker/id6755700782) — an AI-powered iOS expense tracker (4.7★, 22 languages).
@@ -455,29 +455,30 @@ A chronological tour of every iOS app I've put my name on. Live App Store links 
 
 ## GitHub
 
-<p>
-  <a href="https://github.com/mohammed-salah-zidane">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammed-salah-zidane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=cdd9e5&include_all_commits=true&count_private=true">
-  </a>
-  <a href="https://github.com/mohammed-salah-zidane">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-salah-zidane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=cdd9e5&langs_count=8&exclude_repo=LeetCode-2,objective-c-style-guide">
-  </a>
-</p>
+<sub><b>Stats are self-hosted</b> — generated daily in this repo by a GitHub Actions workflow (`lowlighter/metrics`) and pushed to the <code>output</code> branch. No third-party rate-limited Vercel URL.</sub>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-salah-zidane&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak">
-</p>
-
-#### Activity over the last year
+#### A year in code
 
 <a href="https://github.com/mohammed-salah-zidane">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-salah-zidane&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true&radius=12&custom_title=Contribution+Activity" alt="Contribution activity graph">
+  <img alt="A year of contributions — isocalendar + achievements" src="https://raw.githubusercontent.com/mohammed-salah-zidane/mohammed-salah-zidane/output/metrics.achievements.svg">
 </a>
 
-#### Achievements
+#### Stack, repos, recent activity
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-salah-zidane&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies">
+<a href="https://github.com/mohammed-salah-zidane">
+  <img alt="Core metrics — languages, repositories, activity" src="https://raw.githubusercontent.com/mohammed-salah-zidane/mohammed-salah-zidane/output/metrics.core.svg">
+</a>
+
+#### Streak
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=mohammed-salah-zidane&hide_border=true&background=1A1815&stroke=1A1815&ring=E0524A&fire=E0524A&currStreakLabel=E0524A&sideLabels=B5AEA5&dates=878177&sideNums=FAF7F2&currStreakNum=FAF7F2" alt="GitHub Streak">
+</p>
+
+#### Contribution activity
+
+<a href="https://github.com/mohammed-salah-zidane">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-salah-zidane&bg_color=1A1815&color=E0524A&line=E0524A&point=FAF7F2&area=true&hide_border=true&radius=12&area_color=E0524A&custom_title=Contributions+%E2%80%94+last+12+months">
 </a>
 
 #### Contribution snake
@@ -488,26 +489,7 @@ A chronological tour of every iOS app I've put my name on. Live App Store links 
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mohammed-salah-zidane/mohammed-salah-zidane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub><i>Snake regenerates daily via a GitHub Actions workflow that runs <a href="https://github.com/Platane/snk">Platane/snk</a> at 00:00 UTC and pushes the SVG to the <code>output</code> branch.</i></sub>
-
-#### Pinned repos
-
-<p>
-  <a href="https://github.com/mohammed-salah-zidane/Pockito-iOS">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-salah-zidane&repo=Pockito-iOS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=cdd9e5">
-  </a>
-  <a href="https://github.com/mohammed-salah-zidane/Frame">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-salah-zidane&repo=Frame&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=cdd9e5">
-  </a>
-</p>
-<p>
-  <a href="https://github.com/mohammed-salah-zidane/SwiftyNet">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-salah-zidane&repo=SwiftyNet&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=cdd9e5">
-  </a>
-  <a href="https://github.com/mohammed-salah-zidane/TwitterClone">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-salah-zidane&repo=TwitterClone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=cdd9e5">
-  </a>
-</p>
+<sub><i>Snake and metrics SVGs regenerate daily at 00:00 UTC via <a href="./.github/workflows/snake.yml"><code>snake.yml</code></a> and <a href="./.github/workflows/metrics.yml"><code>metrics.yml</code></a> — both push to the <code>output</code> branch.</i></sub>
 
 ---
 
@@ -549,7 +531,7 @@ Remote-first · global
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote of the day">
+    <img src="https://quotes-github-readme.vercel.app/api?quote=The+function+of+good+software+is+to+make+the+complex+appear+to+be+simple.&author=Grady+Booch&theme=dark&type=horizontal" alt="Quote of the day">
   </a>
 </p>
 

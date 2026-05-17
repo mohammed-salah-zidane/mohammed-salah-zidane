@@ -1,72 +1,65 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Mohamed Salah Zidane — Senior iOS Engineer · Mobile Tech Lead">
   <defs>
     <style>
-      .bg { fill: #fafafa; }
-      .grid { stroke: #e6e6e6; stroke-width: 1; }
+      .bg { fill: #FAF7F2; }
       .name {
-        font-family: ui-serif, Georgia, 'Times New Roman', serif;
+        font-family: 'Fraunces', ui-serif, Georgia, 'Times New Roman', serif;
         font-size: 88px;
         font-weight: 700;
-        fill: #18181b;
-        letter-spacing: -2px;
+        fill: #2A2622;
+        letter-spacing: -2.2px;
       }
       .role {
-        font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+        font-family: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
         font-size: 22px;
         font-weight: 500;
-        fill: #6d28d9;
-        letter-spacing: 1px;
+        fill: #C2410C;
+        letter-spacing: 1.4px;
       }
       .meta {
-        font-family: ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', sans-serif;
+        font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', sans-serif;
         font-size: 18px;
-        fill: #52525b;
-        letter-spacing: 0.5px;
+        fill: #5C5852;
+        letter-spacing: 0.4px;
       }
-      .accent { fill: #6d28d9; }
-      .ring { stroke: #6d28d9; fill: none; stroke-width: 1.5; }
+      .accent { fill: #C2410C; }
+      .ring { stroke: #C2410C; fill: none; stroke-width: 1.5; }
       .tag {
-        font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+        font-family: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
         font-size: 13px;
-        fill: #71717a;
-        letter-spacing: 0.5px;
+        fill: #8A847B;
+        letter-spacing: 0.7px;
       }
+      .corner { stroke: #C2410C; stroke-width: 1.5; fill: none; }
     </style>
   </defs>
 
-  <!-- background -->
   <rect class="bg" width="1200" height="320"/>
 
-  <!-- subtle grid lines (editorial frame) -->
-  <line class="grid" x1="64" y1="0" x2="64" y2="320"/>
-  <line class="grid" x1="1136" y1="0" x2="1136" y2="320"/>
-  <line class="grid" x1="0" y1="40" x2="1200" y2="40"/>
-  <line class="grid" x1="0" y1="280" x2="1200" y2="280"/>
+  <path class="corner" d="M 60 30 L 60 60 L 90 60"/>
+  <path class="corner" d="M 1140 30 L 1140 60 L 1110 60"/>
+  <path class="corner" d="M 60 290 L 60 260 L 90 260"/>
+  <path class="corner" d="M 1140 290 L 1140 260 L 1110 260"/>
 
-  <!-- top label -->
-  <text class="tag" x="84" y="64">— PORTFOLIO · 2026</text>
+  <text class="tag" x="84" y="64">— PORTFOLIO  /  M.SZ  /  CAIRO &#8594; REMOTE</text>
 
-  <!-- main name -->
   <text class="name" x="84" y="170">Mohamed Salah Zidane</text>
 
-  <!-- accent square -->
-  <rect class="accent" x="84" y="195" width="14" height="14"/>
+  <rect class="accent" x="84" y="196" width="48" height="3"/>
 
-  <!-- role -->
-  <text class="role" x="110" y="207">SENIOR iOS ENGINEER · MOBILE TECH LEAD</text>
+  <text class="role" x="144" y="207">SENIOR iOS ENGINEER  ·  MOBILE TECH LEAD</text>
 
-  <!-- meta line -->
-  <text class="meta" x="84" y="248">Cairo, Egypt  ·  BuildingLink (NYC, Remote)  ·  Solo-founding Pockito  ·  8+ years shipping iOS</text>
+  <text class="meta" x="84" y="248">8+ years shipping iOS  ·  BuildingLink (NYC, Remote)  ·  Solo founder — Pockito  ·  10+ engineers mentored</text>
 
-  <!-- bottom tags -->
-  <text class="tag" x="84" y="304">Swift 6  ·  SwiftUI  ·  @Observable  ·  Foundation Models  ·  Fastlane  ·  Flutter 3.x  ·  OpenAI</text>
+  <text class="tag" x="84" y="304">SWIFT 6  /  SWIFTUI  /  @OBSERVABLE  /  FOUNDATION MODELS  /  FASTLANE  /  FLUTTER 3.X  /  OPENAI</text>
 
-  <!-- right-side mark: orbit + dot, geometric -->
-  <g transform="translate(1010, 160)">
+  <g transform="translate(1020, 160)">
     <circle class="ring" cx="0" cy="0" r="72"/>
-    <circle class="ring" cx="0" cy="0" r="48" opacity="0.55"/>
-    <circle class="accent" cx="0" cy="-72" r="6"/>
-    <circle class="accent" cx="48" cy="0" r="3" opacity="0.7"/>
-    <circle class="accent" cx="-48" cy="0" r="3" opacity="0.4"/>
+    <circle class="ring" cx="0" cy="0" r="48" opacity="0.45"/>
+    <circle class="ring" cx="0" cy="0" r="24" opacity="0.25"/>
+    <circle class="accent" cx="0" cy="-72" r="5"/>
+    <circle class="accent" cx="62" cy="36" r="3" opacity="0.7"/>
+    <circle class="accent" cx="-62" cy="36" r="2.5" opacity="0.5"/>
+    <text class="tag" x="-22" y="100" style="font-size:11px; letter-spacing:1.5px;">EST. 2018</text>
   </g>
 </svg>
