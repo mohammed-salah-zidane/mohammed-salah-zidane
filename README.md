@@ -369,3 +369,4 @@ If you're hiring an iOS lead, want to collaborate on a Swift open-source project
 - 📍 **Location** — Cairo, Egypt — open to remote roles worldwide
 
 <sub><i>BSc Computer Science, Assiut University (2014–2018) · Arabic (native) · English (fluent)</i></sub>
+
