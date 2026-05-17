@@ -1,12 +1,12 @@
 <!--
-  Mohamed Salah Zidane — GitHub profile README
-  Senior iOS Engineer · Mobile Tech Lead
+  Mohamed Salah — GitHub profile README
+  Senior iOS Engineer · Mobile Tech Lead · Solo founder of Pockito
 -->
 
 <a href="https://github.com/mohammed-salah-zidane">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/banner-dark.svg">
-    <img alt="Mohamed Salah Zidane — Senior iOS Engineer · Mobile Tech Lead" src="./.github/assets/banner-light.svg" width="100%">
+    <img alt="Mohamed Salah — Senior iOS Engineer · Mobile Tech Lead" src="./.github/assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
